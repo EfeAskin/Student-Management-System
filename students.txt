@@ -1,0 +1,7 @@
+efe,askin,21,M,Computer
+kaan,isin,19,M,Medicine
+melih,kaya,21,M,Design
+derya,yıldız,18,F,Nursing
+burak,kurt,26,M,Nursing
+yakup,kahraman,24,M,Software
+mertcan,ulu,20,M,CS
