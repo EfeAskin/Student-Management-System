@@ -29,11 +29,11 @@ This project demonstrates **Python object-oriented programming**, **file handlin
 ---
 
 ## 🗄 File Structure
-Student-Management-System/
-│
-├── student-management-system.py # Main Python program
-├── students.txt # Persistent student data
-└── README.md # This documentation
+  Student-Management-System/
+  │
+  ├── student-management-system.py # Main Python program
+  ├── students.txt # Persistent student data
+  └── README.md # This documentation
 
 | File                          | Purpose                                               |
 | ----------------------------- | --------------------------------------------------- |
