@@ -19,6 +19,7 @@ class Student:
     def get_first_name(self): return self.__first_name
     def get_last_name(self): return self.__last_name
     def get_age(self): return self.__age
+    def get_sex(self): return self.__sex
     def get_major(self): return self.__major
 
     # Setter methods to modify private attributes
